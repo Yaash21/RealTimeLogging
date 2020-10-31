@@ -1,0 +1,13 @@
+{
+  "name": "savionode",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "author": "yaash",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0",
+    "tail": "^2.0.4"
+  }
+}

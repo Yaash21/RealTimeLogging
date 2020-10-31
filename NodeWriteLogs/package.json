@@ -1,0 +1,9 @@
+{
+  "name": "writefile",
+  "version": "1.0.0",
+  "description": "appending File",
+  "main": "index.js",
+  "author": "yaash",
+  "license": "ISC"
+
+}
